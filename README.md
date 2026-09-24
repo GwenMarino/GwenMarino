@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-- JavaScript
+- Python
 
 ### Frameworks & Libraries
 
